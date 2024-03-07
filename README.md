@@ -139,7 +139,7 @@
          </p><hr>
     </li>
     <li>
-        <h3>HTML5:</h3><p> 
+        <h3>HyperText Markup Language (HTML):</h3><p> 
         <img src="./assets\images\icons\html.png" width="50px" height="50px"><br>
         Why <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML5</a>:<br>
             HTML code ensures the proper formatting of text and images for Internet browsers. Without HTML, a
