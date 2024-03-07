@@ -28,21 +28,21 @@
 <ol>
     <li>
         <h3>Git</h3><p>
-        <img src="assets/images/icons/git.png" width="40px" height="40x"><br>
+        <img src="./assets/images/icons/git.png" width="40px" height="40x"><br>
         Why <a href="https://git-scm.com/" target="_blank">Git</a>:<br>
         Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
         </p><hr>
     </li>
     <li>
         <h3>Github</h3><p>
-        <img src="assets/images/icons/github.png" width="40px" height="40x"><br>
+        <img src="./assets/images/icons/github.png" width="40px" height="40x"><br>
         Why <a href="https://github.com/" target="_blank">Github</a>:<br>
         Well It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work
         </p><hr>
     </li>
     <li>
         <h3>Github-Desktop</h3><p>
-        <img src="assets/images/icons/github-desktop.png" width="40px" height="40x"><br>
+        <img src="./assets/images/icons/github-desktop.png" width="40px" height="40x"><br>
         Why <a href="https://desktop.github.com/" target="_blank">Github-Desktop</a>:
         <br>If you're new to Git and GitHub, you may find it easier to use GitHub Desktop than to use Git on the command line. GitHub Desktop has a graphical user interface that simplifies commands and helps you visualize changes.<br>
         <small><a href="https://desktop.github.com/" target="_blank">Download here</a></small>
@@ -50,7 +50,7 @@
     </li>
     <li>
         <h3 id="webaim">WebAIM</h3><p>
-        <img src="assets\images\icons\webaim.png" width="150px" height="40x"><br>
+        <img src="./assets\images\icons\webaim.png" width="150px" height="40x"><br>
         Why <a href="https://webaim.org/" target="_blank">WebAIM</a>:<br>WebAIM's mission is to expand the potential of the web for people with disabilities.<br> 
         We empower individuals and organizations to create and deliver accessible content by providing knowledge, technical skills, tools, organizational leadership strategies, and vision.<br>
         </p>
@@ -64,7 +64,7 @@
     </li>
     <li>
         <h3>Balsamiq Wireframes</h3><p>
-        <img src="assets\images\icons\balsamiq-wireframes.png" width="40px" height="40x"><br>
+        <img src="./assets\images\icons\balsamiq-wireframes.png" width="40px" height="40x"><br>
         Why <a href="https://balsamiq.com/" target="_blank">Balsamiq Wireframes</a>:<br>is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard, but using a computer. It really forces you to focus on structure and content, avoiding lengthy discussions about colors and details that should come later in the process.<br>
         <details>
             <summary>WireFrame - Example-Name</summary>
@@ -92,26 +92,33 @@
     </li>
         <li>
         <h3>GoogleFonts:</h3><p> 
-        <img src="assets\images\icons\googlefonts.png" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\googlefonts.png" width="50px" height="50px"><br>
         Why<a href="https://fonts.google.com/" target="_blank"> Google Fonts</a>:<br>
         All the fonts and icons in our catalog are open source and available to anyone, making beautiful typography and iconography accessible to anyone for any project. This means you can share favorites and collaborate easily with friends and colleagues.</p><hr>
     </li>
     <li>
         <h3>Google Chrome Developer Tools:</h3><p> 
-        <img src="assets\images\icons\googledevtools.png" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\googledevtools.png" width="50px" height="50px"><br>
         Why Developer Tools:<br>
         was used for trouble shooting and trying new visual changes without it affect the current code
         already created.</p><hr>
     </li>
     <li>
         <h3>Google Maps:</h3><p> 
-        <img src="assets\images\icons\googlemaps.png" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\googlemaps.png" width="50px" height="50px"><br>
         Why <a href="https://www.google.com/maps/" target="_blank">Google Maps</a>:<br>
         Google Maps used to pinpoint the location of the resturant for further information</p><hr>
     </li>
     <li>
+        <h3>Font Awesome:</h3><p> 
+        <img src="./assets\images\icons\fontawesome.png" width="50px" height="50px"><br>
+        Why <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>:<br>
+        Font Awesome is a robust icon set that contains scalable vector icons. And amazingly enough, it is free.<hr>
+         In the current age of responsive design, this is more important than ever. CSS is used to style the font and can easily change the color, size, drop shadow, or  any other customizations of an icon. You get all of the styling benefits of regular text, but now with icons!</p><hr>
+    </li>
+    <li>
         <h3>Lighthouse:</h3><p> 
-        <img src="assets\images\icons\lighthouse-google.webp" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\lighthouse-google.webp" width="50px" height="50px"><br>
         Why <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en" target="_blank">Lighthouse Extension</a>:<br>
         <p>
             Was used to analyze the following aspects of a URL: <strong>Performance, Progressive Web App, Accessibility, Best Practices and SEO</strong>.
@@ -133,7 +140,7 @@
     </li>
     <li>
         <h3>HTML5:</h3><p> 
-        <img src="assets\images\icons\html.png" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\html.png" width="50px" height="50px"><br>
         Why <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML5</a>:<br>
             HTML code ensures the proper formatting of text and images for Internet browsers. Without HTML, a
             browser would not know how to display text as elements or load images or other elements.
@@ -141,7 +148,7 @@
     </li>
     <li>
         <h3>Cascading Style Sheets (CSS):</h3><p> 
-        <img src="assets\images\icons\css.png" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\css.png" width="50px" height="50px"><br>
         Why <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>:<br>
         CSS makes the front-end of a website shine and it creates a great user experience. Without CSS,
         websites would be less pleasing to the eye and likely much harder to navigate. In addition to layout and format, CSS is
@@ -170,7 +177,6 @@
     </li>
     <li>W3C <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS</a> Validator Results -
         <strong>PASSED</strong><img src="#"></li>
-    <li>All links to external websites must open in a new browser</li>
 </ul>
 
 
