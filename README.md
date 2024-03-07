@@ -50,7 +50,7 @@
     </li>
     <li>
         <h3 id="webaim">WebAIM</h3><p>
-        <img src="#" width="150px" height="40x"><br>
+        <img src="assets\images\icons\webaim.png" width="150px" height="40x"><br>
         Why <a href="https://webaim.org/" target="_blank">WebAIM</a>:<br>WebAIM's mission is to expand the potential of the web for people with disabilities.<br> 
         We empower individuals and organizations to create and deliver accessible content by providing knowledge, technical skills, tools, organizational leadership strategies, and vision.<br>
         </p>
@@ -64,7 +64,7 @@
     </li>
     <li>
         <h3>Balsamiq Wireframes</h3><p>
-        <img src="#" width="40px" height="40x"><br>
+        <img src="assets\images\icons\balsamiq-wireframes.png" width="40px" height="40x"><br>
         Why <a href="https://balsamiq.com/" target="_blank">Balsamiq Wireframes</a>:<br>is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard, but using a computer. It really forces you to focus on structure and content, avoiding lengthy discussions about colors and details that should come later in the process.<br>
         <details>
             <summary>WireFrame - Example-Name</summary>
@@ -90,22 +90,28 @@
         Why <a href="https://www.color-hex.com/" target="_blank">Color-Hex</a>:<br>Using hex color codes to represent different colors is an easy way to differentiate between colors. Once you understand how they work, you can easily change the red, blue, or green values to create a different shade.<br>
         </p><hr>
     </li>
+        <li>
+        <h3>GoogleFonts:</h3><p> 
+        <img src="assets\images\icons\googlefonts.png" width="50px" height="50px"><br>
+        Why<a href="https://fonts.google.com/" target="_blank"> Google Fonts</a>:<br>
+        All the fonts and icons in our catalog are open source and available to anyone, making beautiful typography and iconography accessible to anyone for any project. This means you can share favorites and collaborate easily with friends and colleagues.</p><hr>
+    </li>
     <li>
         <h3>Google Chrome Developer Tools:</h3><p> 
-        <img src="#" width="50px" height="50px"><br>
+        <img src="assets\images\icons\googledevtools.png" width="50px" height="50px"><br>
         Why Developer Tools:<br>
         was used for trouble shooting and trying new visual changes without it affect the current code
         already created.</p><hr>
     </li>
     <li>
         <h3>Google Maps:</h3><p> 
-        <img src="" width="50px" height="50px"><br>
+        <img src="assets\images\icons\googlemaps.png" width="50px" height="50px"><br>
         Why <a href="https://www.google.com/maps/" target="_blank">Google Maps</a>:<br>
         Google Maps used to pinpoint the location of the resturant for further information</p><hr>
     </li>
     <li>
-        <h3>:</h3><p> 
-        <img src="#" width="50px" height="50px"><br>
+        <h3>Lighthouse:</h3><p> 
+        <img src="assets\images\icons\lighthouse-google.webp" width="50px" height="50px"><br>
         Why <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en" target="_blank">Lighthouse Extension</a>:<br>
         <p>
             Was used to analyze the following aspects of a URL: <strong>Performance, Progressive Web App, Accessibility, Best Practices and SEO</strong>.
@@ -127,7 +133,7 @@
     </li>
     <li>
         <h3>HTML5:</h3><p> 
-        <img src="#" width="50px" height="50px"><br>
+        <img src="assets\images\icons\html.png" width="50px" height="50px"><br>
         Why <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML5</a>:<br>
             HTML code ensures the proper formatting of text and images for Internet browsers. Without HTML, a
             browser would not know how to display text as elements or load images or other elements.
@@ -135,7 +141,7 @@
     </li>
     <li>
         <h3>Cascading Style Sheets (CSS):</h3><p> 
-        <img src="#" width="50px" height="50px"><br>
+        <img src="assets\images\icons\css.png" width="50px" height="50px"><br>
         Why <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">CSS</a>:<br>
         CSS makes the front-end of a website shine and it creates a great user experience. Without CSS,
         websites would be less pleasing to the eye and likely much harder to navigate. In addition to layout and format, CSS is
