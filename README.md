@@ -118,7 +118,7 @@
     </li>
     <li>
         <h3>Lighthouse:</h3><p> 
-        <img src="./assets\images\icons\lighthouse-google.webp" width="50px" height="50px"><br>
+        <img src="./assets\images\icons\lighthouse-google.webp" width="68px" height="50px"><br>
         Why <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=en" target="_blank">Lighthouse Extension</a>:<br>
         <p>
             Was used to analyze the following aspects of a URL: <strong>Performance, Progressive Web App, Accessibility, Best Practices and SEO</strong>.
