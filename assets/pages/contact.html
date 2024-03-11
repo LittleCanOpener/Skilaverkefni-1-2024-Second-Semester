@@ -6,30 +6,83 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
     <!--Header || Navigation-->
-    <header>
-        <h3>Contact</h3>
-        <nav>
-            <a href="../../index.html">Home</a>
-            <a href="./about.html">About</a>
-            <a class="active" href="./contact.html">Contact</a>
-            <a href="./menu.html">Menu</a>
+    <header class="showcase">
+        <picture class="logo">
+            <img src="../images/transparent_2024-03-06T14-12-59.png" alt="Company Logo">
+        </picture>
+        <nav class="navbar">
+            <div class="header">
+                <div class="pages">
+                    <a href="../../index.html">Home</a>
+                </div>
+                <div class="pages">
+                    <a href="./about.html">About</a>
+                </div>
+                <div class="pages">
+                    <a class="active" href="./contact.html">Contact</a>
+                </div>
+                <div class="pages">
+                    <a href="./menu.html">Menu</a>
+                </div>
+            </div>
         </nav>
     </header>
+    <!--Main || Body-->
     <main>
-        <!--Main || Body-->
         <section>
-            <h3>Section</h3>
+            <ol class="market-list">
+                <!--Signup Section-->
+                <div class="contact.section">
+                    <h1>Contat us!</h1>
+                    <form action="#" method="post">
+                        <!--First Name-->
+                        <div class="contact">
+                            <label for="first-name">*First-Name
+                                <input type="text" name="first-name" id="first-name" placeholder="John"
+                                    pattern="[a-zA-Z]{2,}" title="Name can't contain numbers and symbols" autofocus
+                                    required>
+                            </label>
+                        </div>
+                        <!--Last Name-->
+                        <div class="contact">
+                            <label for="last-Name">*Last-Name
+                                <input type="text" name="last-Name" id="last-Name" placeholder="Doe"
+                                    pattern="[a-zA-Z]{2,}" title="Name can't contain numbers and symbols" autofocus
+                                    required>
+                            </label>
+                        </div>
+                        <!--Email-->
+                        <div class="contact">
+                            <label for="email">*Email
+                                <input type="email" name="email" id="email" placeholder="example@gmail.com"
+                                    autocomplete="email" required>
+                            </label>
+                        </div>
+                        <!--Passwords-->
+                        <div class="contact">
+                            <label for="text">We are happy to listen!
+                                <input type="text" placeholder="Text" id="text" autocomplete="new-text" required>
+                            </label>
+                    </form>
+                </div>
+            </ol>
         </section>
     </main>
     <!--Footer || Social || Contact -->
     <footer>
-        <h3>Footer</h3>
+        <div class="footer">
+            <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter-square"></i></a>
+            <a href="https://www.snapchat.com/" target="_blank"><i class="fa-brands fa-snapchat"></i></a>
+        </div>
     </footer>
+    <script src="https://kit.fontawesome.com/2fb8622619.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
