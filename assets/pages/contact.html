@@ -12,9 +12,6 @@
 <body>
     <!--Header || Navigation-->
     <header class="showcase">
-        <picture class="logo">
-            <img src="../images/transparent_2024-03-06T14-12-59.png" alt="Company Logo">
-        </picture>
         <nav class="navbar">
             <div class="header">
                 <div class="pages">
@@ -35,39 +32,53 @@
     <!--Main || Body-->
     <main>
         <section>
-            <ol class="market-list">
-                <!--Signup Section-->
-                <div class="contact.section">
-                    <h1>Contat us!</h1>
-                    <form action="#" method="post">
+            <ol class="form-container">
+                <!--Google Map-->
+                <div class="map">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3485.9489501143485!2d-21.894094492658756!3d64.09657252984803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60ded27fccfeb%3A0x3bf690122dee2bdf!2sNTV!5e0!3m2!1sen!2sis!4v1710178284922!5m2!1sen!2sis"
+                        width="600" height="450" style="border:0" allowfullscreen loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </div>
+                <!--form container-->
+                <div class="contact-section">
+                    <form class="contact-form" action="index.html" method="post">
                         <!--First Name-->
-                        <div class="contact">
-                            <label for="first-name">*First-Name
-                                <input type="text" name="first-name" id="first-name" placeholder="John"
+                        <div class="contact-input">
+                            <label for="first-name">First-Name*
+                                <input type="text" name="first-name" id="first-name" placeholder="John.."
                                     pattern="[a-zA-Z]{2,}" title="Name can't contain numbers and symbols" autofocus
                                     required>
                             </label>
                         </div>
                         <!--Last Name-->
-                        <div class="contact">
-                            <label for="last-Name">*Last-Name
-                                <input type="text" name="last-Name" id="last-Name" placeholder="Doe"
+                        <div class="contact-input">
+                            <label for="last-Name">Last-Name*
+                                <input type="text" name="last-Name" id="last-Name" placeholder="Doe.."
                                     pattern="[a-zA-Z]{2,}" title="Name can't contain numbers and symbols" autofocus
                                     required>
                             </label>
                         </div>
+                        <!--Phone-->
+                        <div class="contact-input">
+                            <label for="tel">Phone Number*
+                                <input type="tel" name="phone" id="tel" placeholder="+000-000-0000"
+                                    pattern="+[0-9]{3}[0-9]{3}[0-9]{4}" required>
+                            </label>
+                        </div>
                         <!--Email-->
-                        <div class="contact">
-                            <label for="email">*Email
+                        <div class="contact-input">
+                            <label for="email">Email Adress*
                                 <input type="email" name="email" id="email" placeholder="example@gmail.com"
                                     autocomplete="email" required>
                             </label>
                         </div>
                         <!--TextBox-->
-                        <div class="contact">
-                            <label for="text">We are happy to listen!
-                                <input type="text" placeholder="Text" id="text" autocomplete="new-text" required>
-                            </label>
+                        <div class="contact-input">
+                            <textarea class="contact-text" placeholder="Your message.." required></textarea>
+                        </div>
+                        <button type="submit" class="contact-btn" value="Send">Submit</button>
                     </form>
                 </div>
             </ol>
@@ -97,8 +108,6 @@
                     <a href="https://discord.com" target="_blank"><i class="fa-brands fa-discord icon"></i></a>
                 </li>
             </ul>
-            <button onclick="topFunction()" id="back-to-top" title="Go to top"><i
-                    class="fa-solid fa-angles-up"></i></button>
         </div>
     </footer>
     <script src="https://kit.fontawesome.com/2fb8622619.js" crossorigin="anonymous"></script>
