@@ -11,18 +11,6 @@
         <a href="#" target="_blank">Secondary Color</a><br>
         <img src="#">
     </li>
-    <li>
-        <a href="#" target="_blank">Text Color</a><br>
-        <img src="#">
-    </li>
-    <li>
-        <a href="#" target="_blank">Snake Color</a><br>
-        <img src="#">
-    </li>
-    <li>
-        <a href="#" target="_blank">Food Color</a><br>
-        <img src="#">
-    </li>
 </ul>
 <h1>Technologies</h1>
 <ol>
