@@ -67,26 +67,32 @@
         <img src="./assets\images\icons\balsamiq-wireframes.png" width="40px" height="40x"><br>
         Why <a href="https://balsamiq.com/" target="_blank">Balsamiq Wireframes</a>:<br>is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard, but using a computer. It really forces you to focus on structure and content, avoiding lengthy discussions about colors and details that should come later in the process.<br>
         <details>
-            <summary>WireFrame - Example-Name</summary>
-            <img src="#"><br>
+            <summary>WireFrame - Home</summary>
+            <img src="./assets/images/wireframes/home-wireframe.png"><br>
         </details>
         <details>
-            <summary>WireFrame - Example-Name</summary>
-            <img src="#"><br>
+            <summary>WireFrame - About</summary>
+            <img src="./assets/images/wireframes/about-wireframe.png"><br>
         </details>
         <details>
-            <summary>WireFrame - Example-Name</summary>
-            <img src="#"><br>
+            <summary>WireFrame - Contact</summary>
+            <img src="./assets/images/wireframes/contact-wireframe.png"><br>
         </details>
         <details>
-            <summary>WireFrame - Example-Name</summary>
-            <img src="#"><br>
+            <summary>WireFrame - Menu</summary>
+            <img src="./assets/images/wireframes/menu-wireframe.png"><br>
         </details>
+        </p><hr>
+    </li>
+       <li>
+        <h3>Favicon</h3><p>
+        <img src="./assets/images/icons/favicon.png" width="180px" height="30x"><br>
+        Why <a href="https://favicon.io/" target="_blank">Favicon</a>:<br>This is typically referred to as a website's favicon, which is an extremely important element of building and marketing any online presence today. Favicons can help users quickly identify your website among a sea of open tabs. Plus, they make it easy for users to find your website easily in their browser history.<br>
         </p><hr>
     </li>
     <li>
         <h3>Color-Hex</h3><p>
-        <img src="https://www.color-hex.com/logo.png" width="80px" height="40x"><br>
+        <img src="https://www.color-hex.com/logo.png" width="100px" height="40x"><br>
         Why <a href="https://www.color-hex.com/" target="_blank">Color-Hex</a>:<br>Using hex color codes to represent different colors is an easy way to differentiate between colors. Once you understand how they work, you can easily change the red, blue, or green values to create a different shade.<br>
         </p><hr>
     </li>
@@ -164,19 +170,21 @@
         <table>
             <tr>
                 <h3>Home - <strong>PASSED</strong></h3>
-                <img src="#" width="370px" height="230px">
+                <img src="./assets\images\test-sc/html-home-test.png" width="370px" height="25px">
             </tr>
             <tr>
-                <h3>Gallery - <strong>PASSED</strong></h3><img src="#"
-                    width="370px" height="230px">
+                <h3>About - <strong>PASSED</strong></h3><img src="./assets\images\test-sc/html-about-test.png" width="370px" height="25px">
             </tr>
             <tr>
-                <h3>Contact us - <strong>PASSED</strong></h3><img src="#" width="370px" height="230px">
+                <h3>Contact - <strong>PASSED</strong></h3><img src="./assets\images\test-sc/html-contact-test.png" width="370px" height="25px">
+            </tr>
+                  <tr>
+                <h3>Menu - <strong>PASSED</strong></h3><img src="./assets\images\test-sc/html-menu-test.png" width="370px" height="25px">
             </tr>
         </table>
     </li>
     <li>W3C <a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS</a> Validator Results -
-        <strong>PASSED</strong><img src="#"></li>
+        <strong>PASSED</strong><img src="./assets\images\test-sc/5973610d2fd75711e651cea226a805fb.png"></li>
 </ul>
 
 
