@@ -1,5 +1,5 @@
-# Name
-<img src="#">
+# TheHungryLlama
+<img src="./assets/images/test-sc/am-i-responsive.png">
 <h1>Color Scheme</h1>
 <p>The Color scheme was chosen with contrast in mind and the help of <a href="#webaim">WebAIM</a></p>
 <ul>
@@ -18,6 +18,51 @@
     <li>
             <a href="https://www.color-hex.com/color/6d4803" target="_blank">Secondary Text Color</a><br>
         <img src="./assets/images/colors/color-scheme3.png">
+    </li>
+</ul>
+<h1>Deployment</h1>
+<ul>
+    <h2>Using Github Pages</h2>
+    <li>
+        Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Skilaverkefni-1-2024-Second-Semester" target="_blank">Repository</a>:
+    </li>
+    <li>
+        Click the 'Settings' Tab.
+    </li>
+    <li>
+        Scroll Down to the Git Hub Pages Heading.
+    </li>
+    <li>
+        Select 'Master Branch' as the source.
+    </li>
+    <li>
+        Click the Save button.
+    </li>
+    <li>
+        Click on the link to go to the live deployed page.
+    </li>
+</ul>
+    <h2>Here Is Mine</h2>
+    Hosted via Github Pages:
+    <a href="https://littlecanopener.github.io/Skilaverkefni-1-2024-Second-Semester/" target="_blank">Here</a>
+    <hr>
+<ul>
+    <h2>Run Locally</h2>
+    <li>
+        Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Skilaverkefni-1-2024-Second-Semester" target="_blank">Repository</a>:
+    </li>
+    <li>
+        Click the Code drop down menu.
+    </li>
+    <li>
+        Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+        </li>
+    <li>
+        Open your developement editor of choice and open a terminal window in a directory of your choice.
+    </li>
+    <li>
+        Use the 'git clone' command in terminal followed by the copied git URL.
+        A clone of the project will be created locally on your machine.
     </li>
 </ul>
 <h1>Technologies</h1>
