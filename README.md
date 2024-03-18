@@ -4,24 +4,20 @@
 <p>The Color scheme was chosen with contrast in mind and the help of <a href="#webaim">WebAIM</a></p>
 <ul>
     <li>
-        <a href="#" target="_blank">Primary Color</a><br>
-        <img src="#">
+        <a href="https://www.color-hex.com/color/ffffff" target="_blank">Background Primary Color</a><br>
+        <img src="./assets/images/colors/color-scheme.png">
+    </li>
+        <li>
+        <a href="https://www.color-hex.com/color/f5f1e5" target="_blank">Background Secondary Color</a><br>
+        <img src="./assets/images/colors/color-scheme2.png">
     </li>
     <li>
-        <a href="#" target="_blank">Secondary Color</a><br>
-        <img src="#">
+        <a href="https://www.color-hex.com/color/000000" target="_blank">Primary Text Color</a><br>
+        <img src="./assets/images/colors/color-scheme1.png">
     </li>
     <li>
-        <a href="#" target="_blank">Text Color</a><br>
-        <img src="#">
-    </li>
-    <li>
-        <a href="#" target="_blank">Snake Color</a><br>
-        <img src="#">
-    </li>
-    <li>
-        <a href="#" target="_blank">Food Color</a><br>
-        <img src="#">
+            <a href="https://www.color-hex.com/color/6d4803" target="_blank">Secondary Text Color</a><br>
+        <img src="./assets/images/colors/color-scheme3.png">
     </li>
 </ul>
 <h1>Technologies</h1>
@@ -210,6 +206,6 @@
         search results pages. Remember, the higher the website is listed, the more people will see it.
     </p>
     <h3>Desktop:</h3>
-    <img src="#">
+    <img src="./assets/images/test-sc/lighthouse-desktop.png">
     <h3>Moblie:</h3>
-    <img src="#">
+    <img src="./assets/images/test-sc/lighthouse-moblie.png">
