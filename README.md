@@ -98,8 +98,8 @@
         <details>
         <summary>Contrast Screenshots.</summary>
         <p>
-            <img src="#"><br>
-            <img src="#">
+            <img src="./assets/images/test-sc/contrast-1.png"><br>
+            <img src="./assets/images/test-sc/contrast-2.png">
         </p>
         </details><hr>
     </li>
