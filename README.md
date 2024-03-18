@@ -15,13 +15,10 @@
         <a href="https://www.color-hex.com/color/000000" target="_blank">Primary Text Color</a><br>
         <img src="./assets/images/colors/color-scheme1.png">
     </li>
-<<<<<<< HEAD
     <li>
             <a href="https://www.color-hex.com/color/6d4803" target="_blank">Secondary Text Color</a><br>
         <img src="./assets/images/colors/color-scheme3.png">
     </li>
-=======
->>>>>>> fded33cffb97cda64f80722db71bc51fff2e1b21
 </ul>
 <h1>Technologies</h1>
 <ol>
